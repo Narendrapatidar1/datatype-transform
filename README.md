@@ -9,12 +9,12 @@ You can install the Datatype-transform Library via npm:
 ```bash
 npm i datatype-transform
 
-Usage
-Importing the Library
+##Usage
+#Importing the Library-
 
 import { arrayToList } from 'datatype-transform';
 
-Example
+#Example-
 const arr = [1, 2, 3, 4, 5];
 const linkedList = arrayToList(arr);
 console.log(linkedList);
@@ -37,5 +37,5 @@ This will output:
   }
 }
 
-Contributing
+#Contributing-
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request on the GitHub repository.
